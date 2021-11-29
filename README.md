@@ -1,4 +1,4 @@
-### Hi there 👋, I´m Gonzalo !
+### Aloha! 👋, I´m Gonzalo !
 
 ## I'm a Full Stack Developer from Córdoba - Argentina
 
