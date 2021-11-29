@@ -1,12 +1,12 @@
-### Hi there 👋, I´m Lucas !
+### Hi there 👋, I´m Gonzalo !
 
 ## I'm a Full Stack Developer from Córdoba - Argentina
 
 ******
 - 🔭 I’m currently working on a new App with my team !
-- 🌱 I’m currently learning Type Script !
-- 👯 I’m looking to collaborate with any other developers around the world !
-- ⚡ Fun fact: I´m Music Teacher, drummer/guitar player and a big fan of the Foo Fighters band!
+- 🌱 I’m currently learning about Machine Learning with Python !
+- 👯 I’m looking to collaborate with any other developers around the world in any kind of project!
+- ⚡ Fun fact: I´m barteder 🥃🍸, DJ 🎛️ and a animal lover 🐶🐱🐢 !
 
 ### Tech Stack
 
@@ -24,13 +24,14 @@
   <img align="left" alt="Visual Studio Code" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />  
   <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p
-  
+  <img  src="https://github-readme-stats.vercel.app/api?username=gongoody" />  
+  <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongoody" />
 ******
   
 ### How to reach me 📫:
    <p>
       <a href="https://www.linkedin.com/in/godoygonzalo/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas LinkedIn Profile" height="40" width="40">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gonzalo Godoy LinkedIn Profile" height="40" width="40">
       </a> 
  <a align='right' href="mailto:gonzaagodoy12@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
